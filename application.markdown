@@ -8,4 +8,4 @@ Applications have to include the participant's curriculum and a motivation lette
 
 For any further questions, please contact us [by email].
 
-[by email]: mail@spaceafterborders.com
+[by email]: mailto:mail@spaceafterborders.com
