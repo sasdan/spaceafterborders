@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-About the Summer School
----
 Space After Borders invites young scholars (doctoral and post-doctoral phase) to reflect on and to participate in discussions on what it means to find oneself in a ‘space after borders’, that is, in between multiple languages, cultures, and identities. What are the borders that define a culture or an identity made of; where do we find the borders which separate one national literary production from another; and how can we look beyond them? How can we imagine a space after borders?
 
 The summer school focuses on two phenomena in particular, arguing that a dialogue between these two will be fruitful to discuss these questions: 
