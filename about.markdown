@@ -32,6 +32,8 @@ Where
 ---
 The summer school will take place in [Monte Verità](https://www.monteverita.org/en), at (or, after) the border of Italy and Switzerland. 
 
+Parts of the summer school will be made available online via this website.
+
 Organisation and Funding
 ---
 Organised by: [Saskia Kroonenberg](https://saskia.dance/) (University of Cologne), [Sara Pesce](https://www.rose.uzh.ch/de/seminar/wersindwir/mitarbeitende/pesce.html) (University of Zurich),
