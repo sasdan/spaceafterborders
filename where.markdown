@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Where
-permalink: /where/
+title: Program
+lang: en
+permalink: /program/
 ---
 
-The summer school will take place in [Monte Verità](https://www.monteverita.org/en), at (or, after) the border of Italy and Switzerland. 
-Besides the intellectual plane, the participants will also on physically find themselves 'after borders'.
+To be added soon...
