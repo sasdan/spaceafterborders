@@ -21,6 +21,8 @@
 title: Space After Borders
 email: mail@spaceafterborders.com 
 description: >- # this means to ignore newlines until "baseurl:"
+Summer School 21 - 22 July 2022
+Monte Verità, Ascona (CH)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.spaceafterborders.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: sasdan
