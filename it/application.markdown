@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Application
-permalink: /en/application/
-lang: en
+title: Candidatura
+permalink: /it/candidatura/
+lang: it
 lang-ref: application
 ---
 

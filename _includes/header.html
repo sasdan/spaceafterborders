@@ -5,7 +5,7 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      <img src="/assets/logoEN01.png" alt="{{ site.title | escape }}" />
+      <img src="/assets/logo01_{{ page.lang | default 'en' }}.png" alt="{{ site.title | escape }}" />
     </a>
 
     {%- if titles_size > 0 -%}
@@ -20,12 +20,29 @@
         </label>
 
         <div class="trigger">
-          {%- for path in page_paths | where "lang", page.lang -%}
+          {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
+            {%- if my_page.title and (my_page.lang == page.lang) -%}
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
+
+          {%- if page.lang == "it" -%}
+            {%- if page.layout == "post" -%}
+              {%- assign translated_page = page.url | replace: "/it/", "/en/" -%}
+            {%- else -%}
+              {%- assign translated_page = site.pages | where: "lang-ref", page.lang-ref | where: "lang", "en"  | first | map: "url" -%}
+            {%- endif -%}
+            <a class="switch-language" href="{{ translated_page }}">🇬🇧</a>
+          {%- else -%}
+            {%- if page.layout == "post" -%}
+              {%- assign translated_page = page.url | replace: "/en/", "/it/" -%}
+            {%- else -%}
+              {%- assign translated_page = site.pages | where: "lang-ref", page.lang-ref | where: "lang", "it"  | first | map: "url" -%}
+            {%- endif -%}
+            <a class="switch-language" href="{{ translated_page }}">🇮🇹</a>
+          {%- endif -%}
+          
         </div>
       </nav>
     {%- endif -%}
