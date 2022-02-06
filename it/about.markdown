@@ -6,43 +6,44 @@ lang: it
 lang-ref: about
 ---
 
-# Italian Version
+In un’epoca globalizzata, persone, lingue, culture, libri, artefatti e prodotti viaggiano, interagiscono e si modificano di continuo; e con essi il concetto di confine, inteso come luogo della delimitazione granitica. A partire dalla constatazione secondo cui una nozione tradizionale di confine sia sempre meno adatta a rappresentare le realtà attuali, la scuola estiva Lo spazio oltre i confini. Migrazione, lettertura e traduzione intende cercare di concepire uno spazio oltre i confini, dove sia possibile mettere in discussione i limiti, siano essi frontiere geografiche, barriere sociali, politiche, culturali e letterarie. La scuola estiva propone di affrontare questo argomento, focalizzandosi su due fenomeni in particolare, capaci d’incarnare in modo emblematico questi movimenti sconfinanti osservabili nella realtà: 
 
-Space After Borders invites young scholars (doctoral and post-doctoral phase) to reflect on and to participate in discussions on what it means to find oneself in a ‘space after borders’, that is, in between multiple languages, cultures, and identities. Where are the borders that define a culture, identity, or literary production? How can we look beyond them? How can we imagine a space after borders?
+1. le (letterature delle) migrazioni 
+2. gli studi sulle traduzioni
 
-The summer school focuses on two phenomena in particular, arguing that a dialogue between these two will be fruitful to discuss these questions: 
+Da un lato, il tema della migrazione sarà trattato da un punto di vista letterario. In Migration Italy (2005), per esempio, Graziella Parati sottolinea «the relevance that migrants’ literature has in shaping the future of Italian culture in a new multiculturalist direction that inscribes itself in the already multicultural Italian profile» (57). Parati nota inoltre che ogni parlante della lingua italiana (nato all’interno o al di fuori dell’Italia) si trova a differire, secondo gradi diversi, dallo standard linguistico nazionale; il che crea un possibile punto d’incontro «between two different embodiments of distance from a national language (that of the native Italian and that of the migrant)» (55-56). 
 
-1. (Italian) literatures of migration
-2. translation studies. 
+Dall’altro lato, negli studi sulla traduzione si registra un sempre crescente bisogno di mettere in relazione la letteratura italiana con la letteratura ‘straniera’ tradotta in lingua italiana. È quel che mette bene in luce Sisto (2018), quando egli afferma la necessità di creare una «storia italiana della letteratura mondiale». Così, se da un lato, gli studi sulla traduzione si relazionano opportunamente alle questioni della migrazione e della letteratura della migrazione, le letterature e la filosofie della migrazione, dall’altro lato, permettono d’interrogare e mettere in questione la visione unitaria delle lingue e delle identità nazionali. 
 
-On the one hand, the theme of migration will be approached from a literary and philosophical perspective. In Migration Italy (2005), for example, Graziella Parati underlines that “the relevance that migrants’ literature has in shaping the future of Italian culture in a new multiculturalist direction that inscribes itself in the already multicultural Italian profile” (57). Parati furthermore notes that all speakers of Italian - be they born in or outside of Italy - differ with some degree from the national linguistic norm; hence, this creates a point of encounter “between two different embodiments of distance from a national language (that of the native Italian and that of the migrant)” (55-56). 
+La scuola estiva Lo spazio oltre i confini vuole proporsi come un’occasione di incontro e di dialogo tra nuove generazioni di studiose e di studiose, professoresse e professori, scrittrici e altre/altri professionisti, attorno a differenti realtà culturali e linguistiche, includendo aspetti legati alla nozione dell’identità, sia sul versante collettivo che su quello individuale. Il confronto costante permesso da interventi, workshops e serali sessioni di letture collettive vorrebbe inoltre propiziare scambi e discussioni sulle rispettive ricerche e sulle nuove pubblicazioni. 
 
-On the other hand, in translation studies, the need to relate Italian literature with ‘foreign’ literature which was translated in Italian, is increasingly felt; as is evident in Michele Sisto’s (2018) attempt to create what he calls a “storia italiana della letteratura mondiale” (an Italian history of world literature). Translation studies thus tend to turn towards questions of migration and its literature; while literatures and philosophies of migration interrogate unitary visions of national languages and identities. 
 
-Combining these perspectives, Space After Borders will create a dialogue between various cultural and linguistic realities, including aspects related to notions of identity on collective and individual levels.
-
-Confirmed Speakers
+Relatrici/relatori confermate/i
 ---
-Maria Nadotti, translator and journalist
 
-Marie Moïse, independent scholar and activist
+Maria Nadotti, traduttrice e giornalista
 
-Loredana Polezzi, professor (Stony Brook University)
+Marie Moïse, attivista e accademica indipendente
 
-Michele Sisto, professor (Università degli Studi “G. D’Annunzio”)
+Loredana Polezzi, professoressa (Stony Brook University)
 
-Languages
+Michele Sisto, professore (Università degli Studi “G. D’Annunzio”)
+
+
+Lingue
 ---
-The summer school will be largely held in Italian, and at least a passive knowledge of the Italian language is highly recommended. Yet, it will also be open to interested doctoral and postdoctoral candidates of other languages and literatures. 
+La summer school si svolgerà principalmente in lingua italiana, per cui è raccomandata una competenza almeno passiva di questa lingua. Essa sarà tuttavia aperta a tutte/i le/i dottorande/i e le/i postdottorande/i provenienti dagli studi letterari e dagli studi sulla traduzione. 
 
-Where
----
-The summer school will take place in [Monte Verità](https://www.monteverita.org/en), at (or, after) the border of Italy and Switzerland. 
-Parts of the summer school will be made available online via this website.
 
-Organisation and Funding
+Dove
 ---
-Organised by: [Saskia Kroonenberg](https://saskia.dance/) (University of Cologne), [Sara Pesce](https://www.rose.uzh.ch/de/seminar/wersindwir/mitarbeitende/pesce.html) (University of Zurich),
+
+La summer school Lo spazio oltre i confini. Migrazione, lettertura e traduzione avrà luogo presso il [Monte Verità](https://www.monteverita.org/en), al (o oltre) il confine tra Svizzera e Italia. 
+
+
+Organizzazione e finanziatori
+---
+La summer school è stata organizzata da [Saskia Kroonenberg](https://saskia.dance/) (University of Cologne), [Sara Pesce](https://www.rose.uzh.ch/de/seminar/wersindwir/mitarbeitende/pesce.html) (University of Zurich),
 [Mara Travella](https://www.rose.uzh.ch/de/forschung/doktorat/doktorierende/travella.html) (University of Zurich), [Francesca Rodesino](https://www.rose.uzh.ch/de/forschung/doktorat/doktorierende/rodesino.html) (University of Zurich)
 
-This summer school is made possible thanks to the financial support of the [University of Zurich](https://www.uzh.ch/en.html), especially the [Graduate Campus](https://www.grc.uzh.ch/de.html), the [Romanisches Seminar](https://www.rose.uzh.ch/de.html), and the Department of [Allgemeine und Vergleichende Literaturwissenschaft](https://www.rose.uzh.ch/de/studium/faecher/avl/studies.html); and the [Dipartimento dell’educazione, della cultura e dello sport](https://www4.ti.ch/decs/dipartimento/) of the Republic and Canton of Ticino.
+La summer school è stata organizzata grazie al gentile supporto finanziario dell’[Università di Zurigo](https://www.uzh.ch/en.html) ([Graduate Campus](https://www.grc.uzh.ch/de.html), [Romanisches Seminar](https://www.rose.uzh.ch/de.html), il dipartimento di [Allgemeine und Vergleichende Literaturwissenschaft](https://www.rose.uzh.ch/de/studium/faecher/avl/studies.html)) e del [Dipartimento dell’educazione, della cultura e dello sport](https://www4.ti.ch/decs/dipartimento/) del Cantone Ticino.
