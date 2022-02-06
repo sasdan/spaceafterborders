@@ -6,10 +6,10 @@ lang: it
 lang-ref: application
 ---
 
-Applications have to include the participant's curriculum and a motivation letter, which can be sent [by email] until 15 March 2022. The selection criteria consist in the quality of the motivation letter and the academic profiles in the curriculum. The aim is to compose a mixed group of (post-)doctoral candidates, especially including members of underrepresented groups, deriving from various fields of study. 
+Le candidature dovranno includere un curriculum e una lettera di motivazione, e dovranno essere spedite [all’indirizzo di posta elettronica] entro e non oltre il 15 marzo 2022. Nella selezione delle/dei partecipanti alla summer school si terrà conto della qualità della lettera di motivazione e del profilo accademico delle/degli studiose/studiosi. L’obiettivo è quello di comporre un gruppo misto di (post-) dottorande/i, rappresentativo di una varietà di ambiti di studio. 
 
-The costs will consist of a fee of CHF 60,00 and the tourist tax of CHF 3,30. 
+La tassa di partecipazione alla summer school è di 50.00 CHF e la tassa di soggiorno è di 3,30 CHF.
 
-For any further questions, please contact us [by email].
+Per ogni ulteriore questione, si è pregati di contattare il comitato organizzatore [all’indirizzo di posta elettronica].
 
-[by email]: mailto:mail@spaceafterborders.com
+[all’indirizzo di posta elettronica]: mailto:mail@spaceafterborders.com
