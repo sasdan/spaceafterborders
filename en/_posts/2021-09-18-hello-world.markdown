@@ -1,8 +1,13 @@
 ---
 layout: post
-title:  "Hello World"
-date:   2022-01-28 15:15:00 +0100
+title:  "Apply now"
+date:   2022-02-01 15:15:00 +0100
 lang:	en
 ---
 
-Hello World, more posts will follow.
+[CALL FOR PARTICIPANTS](https://www.spaceafterborders.com/en/application/)
+
+Summer School [Space After Borders. Migration, Literature and Translation](https://www.spaceafterborders.com/en/about/)
+
+21 - 22 July 2022
+Monte Verità, Ascona (CH)
