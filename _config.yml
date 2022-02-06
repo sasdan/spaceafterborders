@@ -31,6 +31,16 @@ github_username: sasdan
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-multiple-languages-plugin
+
+languages:
+  - en
+  - it
+
+exclude_from_localizations:
+  - assets
+
+default_locale_in_subfolder: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
