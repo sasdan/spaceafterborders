@@ -6,7 +6,7 @@ lang: en
 lang-ref: about
 ---
 
-Space After Borders invites young scholars (doctoral and post-doctoral phase) to reflect on and to participate in discussions on what it means to find oneself in a ‘space after borders’, that is, in between multiple languages, cultures, and identities. Where are the borders that define a culture, identity, or literary production? How can we look beyond them? How can we imagine a space after borders?
+Space After Borders. Migration, Literature and Translation, invites young scholars (doctoral and post-doctoral phase) to reflect on and to participate in discussions on what it means to find oneself in a ‘space after borders’, that is, in between multiple languages, cultures, and identities. Where are the borders that define a culture, identity, or literary production? How can we look beyond them? How can we imagine a space after borders?
 
 The summer school focuses on two phenomena in particular, arguing that a dialogue between these two will be fruitful to discuss these questions: 
 
