@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /en/about/
+title: Informazioni
+permalink: /it/informazioni/
 ---
 
 Space After Borders invites young scholars (doctoral and post-doctoral phase) to reflect on and to participate in discussions on what it means to find oneself in a ‘space after borders’, that is, in between multiple languages, cultures, and identities. Where are the borders that define a culture, identity, or literary production? How can we look beyond them? How can we imagine a space after borders?
