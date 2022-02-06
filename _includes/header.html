@@ -5,7 +5,7 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      <img src="/assets/logo03_{{ page.lang | default 'en' }}.png" alt="{{ site.title | escape }}" style="padding: 10px 0;" />
+      <img src="/assets/logo03_{{ page.lang | default: 'en' }}.png" alt="{{ site.title | escape }}" style="padding: 10px 0;" />
     </a>
 
     {%- if titles_size > 0 -%}
@@ -27,21 +27,23 @@
             {%- endif -%}
           {%- endfor -%}
 
-          {%- if page.lang == "it" -%}
-            {%- if page.layout == "post" -%}
-              {%- assign translated_page = page.url | replace: "/it/", "/en/" -%}
+          {%- if page.show_language_chooser != false -%}
+            {%- if page.lang == "it" -%}
+              {%- if page.layout == "post" -%}
+                {%- assign translated_page = page.url | replace: "/it/", "/en/" -%}
+              {%- else -%}
+                {%- assign translated_page = site.pages | where: "lang-ref", page.lang-ref | where: "lang", "en"  | first | map: "url" -%}
+              {%- endif -%}
+              <a class="switch-language" href="{{ translated_page }}">🇬🇧</a>
             {%- else -%}
-              {%- assign translated_page = site.pages | where: "lang-ref", page.lang-ref | where: "lang", "en"  | first | map: "url" -%}
+              {%- if page.layout == "post" -%}
+                {%- assign translated_page = page.url | replace: "/en/", "/it/" -%}
+              {%- else -%}
+                {%- assign translated_page = site.pages | where: "lang-ref", page.lang-ref | where: "lang", "it"  | first | map: "url" -%}
+              {%- endif -%}
+              <a class="switch-language" href="{{ translated_page }}">🇮🇹</a>
             {%- endif -%}
-            <a class="switch-language" href="{{ translated_page }}">🇬🇧</a>
-          {%- else -%}
-            {%- if page.layout == "post" -%}
-              {%- assign translated_page = page.url | replace: "/en/", "/it/" -%}
-            {%- else -%}
-              {%- assign translated_page = site.pages | where: "lang-ref", page.lang-ref | where: "lang", "it"  | first | map: "url" -%}
-            {%- endif -%}
-            <a class="switch-language" href="{{ translated_page }}">🇮🇹</a>
-          {%- endif -%}
+          {%- endif -%}  
           
         </div>
       </nav>
