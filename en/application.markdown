@@ -12,4 +12,4 @@ The costs will consist of a fee of CHF 60,00 and the tourist tax of CHF 3,30.
 
 For any further questions, please contact us [by email].
 
-[by email]: mailto:mail@spaceafterborders.com
+[by email]: spaziooltreiconfini.22@gmail.com
