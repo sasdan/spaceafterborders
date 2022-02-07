@@ -12,4 +12,4 @@ La tassa di partecipazione alla summer school è di 50.00 CHF e la tassa di sogg
 
 Per ogni ulteriore questione, si è pregati di contattare il comitato organizzatore [all’indirizzo di posta elettronica].
 
-[all’indirizzo di posta elettronica]: mailto:mail@spaceafterborders.com
+[all’indirizzo di posta elettronica]: spaziooltreiconfini.22@gmail.com
