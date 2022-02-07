@@ -13,7 +13,7 @@ In un’epoca globalizzata, persone, lingue, culture, libri, artefatti e prodott
 
 Da un lato, il tema della migrazione sarà trattato da un punto di vista letterario. In _Migration Italy_ (University of Toronto Press, 2005), per esempio, Graziella Parati sottolinea «the relevance that migrants’ literature has in shaping the future of Italian culture in a new multiculturalist direction that inscribes itself in the already multicultural Italian profile» (57). Parati nota inoltre che ogni parlante della lingua italiana (nato all’interno o al di fuori dell’Italia) si trova a differire, secondo gradi diversi, dallo standard linguistico nazionale; il che crea un possibile punto d’incontro «between two different embodiments of distance from a national language (that of the native Italian and that of the migrant)» (55-56). 
 
-Dall’altro lato, negli studi sulla traduzione si registra un sempre crescente bisogno di mettere in relazione la letteratura italiana con la letteratura ‘straniera’ tradotta in lingua italiana. È quel che mette bene in luce Sisto (2018), quando egli afferma la necessità di creare una «storia italiana della letteratura mondiale». Così, se da un lato, gli studi sulla traduzione si relazionano opportunamente alle questioni della migrazione e della letteratura della migrazione, le letterature e la filosofie della migrazione, dall’altro lato, permettono d’interrogare e mettere in questione la visione unitaria delle lingue e delle identità nazionali. 
+Dall’altro lato, negli studi sulla traduzione si registra un sempre crescente bisogno di mettere in relazione la letteratura italiana con la letteratura ‘straniera’ tradotta in lingua italiana. È quel che mette bene in luce Sisto (_La letteratura tedesca in Italia_, Quodlibet, 2018), quando egli afferma la necessità di creare una «storia italiana della letteratura mondiale». Così, se da un lato, gli studi sulla traduzione si relazionano opportunamente alle questioni della migrazione e della letteratura della migrazione, le letterature e la filosofie della migrazione, dall’altro lato, permettono d’interrogare e mettere in questione la visione unitaria delle lingue e delle identità nazionali. 
 
 La scuola estiva Lo spazio oltre i confini vuole proporsi come un’occasione di incontro e di dialogo tra nuove generazioni di studiose e di studiose, professoresse e professori, scrittrici e altre/altri professionisti, attorno a differenti realtà culturali e linguistiche, includendo aspetti legati alla nozione dell’identità, sia sul versante collettivo che su quello individuale. Il confronto costante permesso da interventi, workshops e serali sessioni di letture collettive vorrebbe inoltre propiziare scambi e discussioni sulle rispettive ricerche e sulle nuove pubblicazioni. 
 
@@ -23,7 +23,7 @@ Relatrici/relatori confermate/i
 
 Maria Nadotti, traduttrice e giornalista
 
-Marie Moïse, attivista e accademica indipendente
+Marie Moïse, accademica indipendente e attivista
 
 Loredana Polezzi, professoressa (Stony Brook University)
 
