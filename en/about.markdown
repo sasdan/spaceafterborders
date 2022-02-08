@@ -18,7 +18,7 @@ On the other hand, in translation studies, the need to relate Italian literature
 
 ~~Combining these perspectives, the Summer School _Space After Borders_ will create a dialogue between scholars of multiple generations from various cultural and linguistic realities, on topics including notions of identity on collective and individual levels.~~
 
-Through interventions, workshops and evening sessions of collective readings, the summer school _Space beyond the borders_ wants to offer itself as an opportunity to meet new generations of scholars, professors, writers and other professionals, promoting dialogue on the theme of being between different cultures, languages and identities, in a _space beyond borders_.
+Through interventions, workshops and evening sessions of collective readings, the summer school _Space beyond the borders_ wants to offer itself as an opportunity to meet new generations of scholars, professors, writers and other professionals, promoting dialogue on the theme of being between different cultures, languages and identities, in a _space after borders_.
 
 Confirmed Speakers
 ---
