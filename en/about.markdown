@@ -17,7 +17,7 @@ On the one hand, the theme of migration will be approached from a literary and p
 
 On the other hand, in translation studies, the need to relate Italian literature with ‘foreign’ literature which was translated in Italian, is increasingly felt; as is evident from Michele Sisto (_La letteratura tedesca in Italia_, Quodlibet, 2018) to create what he calls a “storia italiana della letteratura mondiale” (an Italian history of world literature). Translation studies thus tend to turn towards questions of migration and its literature, while literatures and philosophies of migration interrogate unitary visions of national languages and identities. 
 
-Combining these perspectives, Space After Borders will create a dialogue between scholars of multiple generations from various cultural and linguistic realities, on topics including notions of identity on collective and individual levels.
+Combining these perspectives, the Summer School _Space After Borders_ will create a dialogue between scholars of multiple generations from various cultural and linguistic realities, on topics including notions of identity on collective and individual levels.
 
 Confirmed Speakers
 ---
