@@ -6,7 +6,7 @@ lang-ref: program
 permalink: /it/programma/
 ---
 
-Il programma è provvisorio.
+_Il programma è provvisorio_.
 
 
 **09:45** – **10:00**: Benvenuto e introduzione (Saskia Kroonenberg)
