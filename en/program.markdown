@@ -6,6 +6,6 @@ lang-ref: program
 permalink: /en/program/
 ---
 
-_The program will be published soon_.
+_To be published soon_.
 
 
