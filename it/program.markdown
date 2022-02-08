@@ -8,7 +8,9 @@ permalink: /it/programma/
 
 _Il programma è provvisorio_.
 
+
 **Giovedì 21 luglio**
+
 
 **09:45** – **10:00**: Benvenuto e introduzione (Saskia Kroonenberg)
 
@@ -53,7 +55,9 @@ Nel corso di quest’ultima parte della giornata, le persone interessate verrann
 presentare letture, poesie, frammenti di testo a propria scelta e di qualunque genere. Sono
 benvenute anche letture accompagnate da musica o da performance creative. 
 
+
 **Venerdì 22 luglio**:
+
 
 **8:30** – **9:30**: Colazione
 
