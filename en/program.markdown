@@ -19,7 +19,7 @@ Marie Moïse is a doctoral candidate in political philosophy at the University o
 
 **13.45 – 14.00**: Introduction (Francesca Rodesino)
 
-**14.00 – 17.00**: Loredana Polezzi interviews Jhumpa Lahiri 
+**14.00 – 17.00**: Loredana Polezzi
 
 Loredana Polezzi studies and teaches travel literature, (post-)colonial literature and literatures of migration, trans-lingualism, and auto-translation. She will conduct an interview with the renowned author Jhumpa Lahiri. Lahiri is of Bengalese and British origins, and she writes in English and Italian. She also translates and auto-translates her work. 
 
@@ -34,7 +34,7 @@ The participants will be invited to take active part in the interview. There wil
 The participants are invited to recite creative texts, to perform, to collectively engage in reading with each other on possible spaces after borders.
 
 
-**Friday 22 July**
+## **Friday 22 July**
 
 **8:30 – 9:30**: Breakfast
 
@@ -85,7 +85,7 @@ The participants will be invited to take active part in the interview. There wil
 The participants are invited to recite creative texts, to perform, to collectively engage in reading with each other on possible spaces after borders.
 
 
-Friday 22 July: Translations
+Friday 22 July: 
 
 **8:30 – 9:30**: Breakfast
 
@@ -99,9 +99,7 @@ Michele Sisto will lead this workshop on the methodological aspects of translati
 
 **13:45 – 14:00**: Introduction (Sara Pesce)
 
-**14:00 – 16:00**: Amira Salah El-Deen Askar presents The socio-cultral context of translating English literary prose into Arabic in Egypt under the British colonisation: A Bourdesian account. 
-
-Amira Salah El-Deen Askar, doctoral candidate at the University of Leeds, will discuss translation studies in a colonial context.
+**14:00 – 16:00**: 
 
 **16:00 – 16:15**: Break
 
