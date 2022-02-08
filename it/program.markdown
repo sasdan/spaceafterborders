@@ -56,7 +56,7 @@ Venerdì 22 luglio:
 
 **8:30** – **9:30**: Colazione
 
-**9:30 – **9:45**: Benvenuto (Mara Travella)
+**9:30** – **9:45**: Benvenuto (Mara Travella)
 
 **9:45**– **12:45**: Workshop in diverse lingue (it/de/eng), con **Michele Sisto**, _Traduttrici e
 traduttori oltre il confine_.
