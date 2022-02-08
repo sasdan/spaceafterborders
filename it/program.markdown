@@ -77,7 +77,7 @@ discussione.
 
 14:00 - 14:15: Benvenuto (Sara Pesce)
 
-14:15 – 16:00: Incontro con Maria Nadotti Tradurre bell hooks. _Esperienze, sguardi, identità_. 
+14:15 – 16:00: Incontro con Maria Nadotti _Tradurre bell hooks. Esperienze, sguardi, identità_. 
 
 Maria Nadotti è giornalista, saggista, traduttrice e consulente editoriale. Scrive per la stampa
 italiana ed estera ed è autrice di numerose opere, fra cui _Cassandra non abita più qui_ (La
