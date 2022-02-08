@@ -14,7 +14,7 @@ Il programma è provvisorio.
 10:00 – 12:15: Workshop: Marie Moïse _Migrazioni e Relazionalità_.
 
 Moïse è una dottoranda in filosofia politica presso le università di Padova e Tolosa II. È
-attivista, co-autrice di Future (2019) e co-traduttrice di Donne, razza e classe di Angela Davis
+attivista, co-autrice di Future (2019) e co-traduttrice di _Donne, razza e classe_ di Angela Davis
 (2018). Moïse si occupa di razzismo, sessismo e relazioni di cura; del corpo, dunque, e della
 «sua intrinseca esistenza in relazione» (Moïse 2019, 38) nell’Italia multiculturale odierna.
 
@@ -34,13 +34,13 @@ Italian American and Italian Studies) dal 2020. Ha lavorato presso l’Universit
 presso la Cardiff University. Si occupa di scrittura di viaggio italiana contemporanea,
 letteratura coloniale e postcoloniale, di culture migranti e diasporiche, di translinguismo e
 autotraduzione. È una delle curatrici e fondatrici della serie di libri Transnational Modern
-Languages, pubblicata dalla Liverpool University Press, co-editrice di Transnational Italian
-Studies (2020) e Transcultural Italies: Mobilità, memoria e traduzione (di prossima
+Languages, pubblicata dalla Liverpool University Press, co-editrice di _Transnational Italian
+Studies_ (2020) e _Transcultural Italies: Mobilità, memoria e traduzione_ (di prossima
 pubblicazione). 
 
 16.30-17:00: Pausa caffè
 
-17:00-17:15: Introduzione (da confermare)
+17:00-17:15: Introduzione
 
 17:15 - 18:45: Sessione da confermare.
 
@@ -63,8 +63,8 @@ traduttori oltre il confine_.
 
 Michele Sisto è docente presso l’Università degli Studi “G. D’Annunzio” di Chieti. Si è
 occupato a lungo di letteratura tradotta, con particolare interesse verso la letteratura tedesca
-(Traiettorie. Studi sulla letteratura tradotta in Italia, Quodlibet, 2019, e La letteratura tedesca
-in Italia. Un’introduzione (1900 - 1920), Quodlibet, 2018). Ha coordinato il progetto LTit,
+(_Traiettorie. Studi sulla letteratura tradotta in Italia_, Quodlibet, 2019, e _La letteratura tedesca
+in Italia. Un’introduzione (1900 - 1920)_, Quodlibet, 2018). Ha coordinato il progetto _LTit_,
 dedicato alla letteratura tradotta in Italia (con Anna Antonello, Anna Baldini, Daria Biagi,
 Stefania De Lucia, Irene Fantappiè).
 Guidati da Michele Sisto, le/i partecipanti avranno modo di riflettere sull’approccio
@@ -80,10 +80,10 @@ discussione.
 14:15 – 16:00: Incontro con Maria Nadotti Tradurre bell hooks. _Esperienze, sguardi, identità_. 
 
 Maria Nadotti è giornalista, saggista, traduttrice e consulente editoriale. Scrive per la stampa
-italiana ed estera ed è autrice di numerose opere, fra cui Cassandra non abita più qui (La
-Tartaruga, 1996), Sesso & Genere (il Saggiatore, 1996), coautrice di Nata due volte (il
-Saggiatore, 1995) e curatrice di volumi come Off Screen: Women and Film in Italy (Routledge,
-1988) ed Elogio del margine: Razza, sesso e mercato culturale (Feltrinelli, 1998).
+italiana ed estera ed è autrice di numerose opere, fra cui _Cassandra non abita più qui_ (La
+Tartaruga, 1996), _Sesso & Genere_ (il Saggiatore, 1996), coautrice di _Nata due volte_ (il
+Saggiatore, 1995) e curatrice di volumi come _Off Screen: Women and Film in Italy_ (Routledge,
+1988) ed _Elogio del margine: Razza, sesso e mercato culturale_ (Feltrinelli, 1998).
  
 16:00 – 16:15: Pausa caffè
 
