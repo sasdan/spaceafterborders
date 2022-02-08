@@ -19,7 +19,7 @@ Così, se da un lato, gli studi sulla traduzione si relazionano opportunamente a
 
 Tramite interventi, workshops e sessioni serali di letture collettive, La scuola estiva _Lo spazio oltre i confini_ vuole proporsi come un'occasione di incontro tra le nuove generazioni di studiose/studiosi, professoresse/professori, scrittrici/scrittori, e altre/altri professioniste/i, propiziando il dialogo sul tema dell'essere tra culture, lingue e identità diverse, in uno spazio oltre i confini.
 
-Relatrici/relatori confermate/i
+Relatrici/ori confermate/i
 ---
 
 Maria Nadotti, traduttrice e giornalista
@@ -36,10 +36,10 @@ Lingue
 La summer school si svolgerà principalmente in lingua italiana, per cui è fortemente raccomandata una competenza almeno passiva di questa lingua. Essa sarà tuttavia aperta a tutte/i le/i dottorande/i e le/i postdottorande/i provenienti dagli studi letterari e dagli studi sulla traduzione. 
 
 
-Dove
+Dove & Quando
 ---
 
-La summer school _Lo spazio oltre i confini. Migrazione, lettertura e traduzione_ avrà luogo presso il [Monte Verità](https://www.monteverita.org/en), al (o oltre il) confine tra Svizzera e Italia. 
+La summer school _Lo spazio oltre i confini. Migrazione, lettertura e traduzione_ avrà luogo tra il 21 e 22 luglio 2022 presso il [Monte Verità](https://www.monteverita.org/en), al (o oltre il) confine tra Svizzera e Italia.
 
 
 Organizzazione e finanziatori
