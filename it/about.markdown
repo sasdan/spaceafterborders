@@ -39,7 +39,7 @@ La summer school si svolgerà principalmente in lingua italiana, per cui è fort
 Dove
 ---
 
-La summer school Lo spazio oltre i confini. Migrazione, lettertura e traduzione avrà luogo presso il [Monte Verità](https://www.monteverita.org/en), al (o oltre) il confine tra Svizzera e Italia. 
+La summer school _Lo spazio oltre i confini. Migrazione, lettertura e traduzione_ avrà luogo presso il [Monte Verità](https://www.monteverita.org/en), al (o oltre il) confine tra Svizzera e Italia. 
 
 
 Organizzazione e finanziatori
