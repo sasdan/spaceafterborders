@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /
-Disallow: /en
-Disallow: /it
+Allow: /en
+Allow: /it
