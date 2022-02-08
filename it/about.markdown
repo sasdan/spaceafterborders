@@ -45,6 +45,6 @@ La summer school _Lo spazio oltre i confini. Migrazione, lettertura e traduzione
 Organizzazione e finanziatori
 ---
 La summer school è stata organizzata da [Saskia Kroonenberg](https://saskia.dance/) (University of Cologne), [Sara Pesce](https://www.rose.uzh.ch/de/seminar/wersindwir/mitarbeitende/pesce.html) (University of Zurich),
-[Mara Travella](https://www.rose.uzh.ch/de/forschung/doktorat/doktorierende/travella.html) (University of Zurich), [Francesca Rodesino](https://www.rose.uzh.ch/de/forschung/doktorat/doktorierende/rodesino.html) (University of Zurich) --> SECONDO QUALE ORDINE CI SIAMO MESSE GIÀ NON ALFABETICO?
+[Mara Travella](https://www.rose.uzh.ch/de/forschung/doktorat/doktorierende/travella.html) (University of Zurich), [Francesca Rodesino](https://www.rose.uzh.ch/de/forschung/doktorat/doktorierende/rodesino.html) (University of Zurich). --> SECONDO QUALE ORDINE CI SIAMO MESSE GIÀ NON ALFABETICO?
 
 La summer school è stata organizzata grazie al gentile supporto finanziario dell’[Università di Zurigo](https://www.uzh.ch/en.html) ([Graduate Campus](https://www.grc.uzh.ch/de.html), [Romanisches Seminar](https://www.rose.uzh.ch/de.html), il dipartimento di [Allgemeine und Vergleichende Literaturwissenschaft](https://www.rose.uzh.ch/de/studium/faecher/avl/studies.html)) e del [Dipartimento dell’educazione, della cultura e dello sport](https://www4.ti.ch/decs/dipartimento/) del Cantone Ticino.
