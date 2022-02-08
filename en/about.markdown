@@ -34,7 +34,7 @@ The summer school will be largely held in Italian, and at least a passive knowle
 
 Where & When
 ---
-The summer school will take place from 21-22 July 2022 in [Monte Verità](https://www.monteverita.org/en), at (or, after) the border of Italy and Switzerland. 
+The summer school _Space After Borders_ will take place from 21-22 July 2022 in [Monte Verità](https://www.monteverita.org/en), at (or, after) the border of Italy and Switzerland. 
 Parts of the summer school will be made available online via this website.
 
 Organisation and Funding
