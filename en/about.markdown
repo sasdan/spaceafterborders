@@ -32,9 +32,9 @@ Languages
 ---
 The summer school will be largely held in Italian, and at least a passive knowledge of the Italian language is highly recommended. Yet, it will also be open to interested doctoral and postdoctoral candidates of other languages and literatures. 
 
-Where
+Where & When
 ---
-The summer school will take place in [Monte Verità](https://www.monteverita.org/en), at (or, after) the border of Italy and Switzerland. 
+The summer school will take place between 21-22 July 2022 in [Monte Verità](https://www.monteverita.org/en), at (or, after) the border of Italy and Switzerland. 
 Parts of the summer school will be made available online via this website.
 
 Organisation and Funding
