@@ -6,7 +6,7 @@ lang: it
 lang-ref: about
 ---
 
-In un’epoca globalizzata, persone, lingue, culture, libri, artefatti e prodotti viaggiano, interagiscono e si modificano di continuo; e con essi il concetto di confine, inteso come luogo della delimitazione granitica. A partire dalla constatazione secondo cui una nozione tradizionale di confine sia sempre meno adatta a rappresentare le realtà attuali, la scuola estiva _Lo spazio oltre i confini. Migrazione, lettertura e traduzione_ intende cercare di concepire uno spazio oltre i confini, dove sia possibile mettere in discussione i limiti, siano essi frontiere geografiche, barriere sociali, politiche, culturali e letterarie. LA SCUOLA ESTIVA INVITA DUNQUE LE RICERCATRICI/I RICERCATORI A RIFLETTERE E A PARTECIPARE ALLA DISCUSSIONE INTORNO A COSA SIGNIFICA TROVARSI IN UNO SPAZIO OLTRE I CONFINI, VALE A DIRE TRA DIFFERENTI CULTURE, LINGUE E IDENTITÀ. QUALI SONO I CONFINI CHE DEFINISCONO UNA CULTURA, UN'IDENTITÀ E UNA PRODUZIONE LETTERARIA? COME POSSIAMO GUARDARE AL DI LÀ DI ESSI? COME POSSIAMO IMMAGINARE UNO SPAZIO OLTRE I CONFINI?
+In un’epoca globalizzata, persone, lingue, culture, libri, artefatti e prodotti viaggiano, interagiscono e si modificano di continuo; e con essi il concetto di confine, inteso come luogo della delimitazione granitica. A partire dalla constatazione secondo cui una nozione tradizionale di confine sia sempre meno adatta a rappresentare le realtà attuali, la scuola estiva _Lo spazio oltre i confini. Migrazione, lettertura e traduzione_ intende cercare di concepire uno spazio oltre i confini, dove sia possibile mettere in discussione i limiti, siano essi frontiere geografiche, barriere sociali, politiche, culturali e letterarie. La scuola estiva invita dunque le ricercatrici/i ricercatori a riflettere e a partecipare alla discussione intorno a cosa significa trovarsi in uno spazio oltre i confini, vale a dire tra differenti culture, lingue e identità. Quali sono i confini che definiscono una cultura, un'identità e una produzione letteraria? Come possiamo guardare al di là di essi? Come possiamo immaginare uno spazio oltre i confini?
 
 La scuola estiva propone di affrontare questo argomento, focalizzandosi su due fenomeni in particolare, capaci d’incarnare in modo emblematico questi movimenti sconfinanti:
 
@@ -14,10 +14,10 @@ La scuola estiva propone di affrontare questo argomento, focalizzandosi su due f
 2. gli studi sulle traduzioni
 
 Da un lato, il tema della migrazione sarà trattato da un punto di vista letterario. In _Migration Italy_ (University of Toronto Press, 2005), per esempio, Graziella Parati sottolinea «the relevance that migrants’ literature has in shaping the future of Italian culture in a new multiculturalist direction that inscribes itself in the already multicultural Italian profile» (57). Parati nota inoltre che ogni parlante della lingua italiana (nato all’interno o al di fuori dell’Italia) si trova a differire, secondo gradi diversi, dallo standard linguistico nazionale; il che crea un possibile punto d’incontro «between two different embodiments of distance from a national language (that of the native Italian and that of the migrant)» (55-56). 
+Dall’altro lato, negli studi sulla traduzione si registra una sempre crescente ricerca nella messa in relazione della letteratura italiana con la letteratura ‘straniera’ tradotta in lingua italiana. È quel che è messo in luce dal progetto di ricerca Ltit (www.ltit) ed elaborato da Michele Sisto nella raccolta di saggi intitolata _Traiettorie. Studi sulla letteratura tradotta in Italia_ (Quodlibet, 2019), ove la letteratura di lingua tedesca tradotta è interrogata, investigata e messa in contatto con il canone italiano come parte di un unico _corpus_. 
+Così, se da un lato, gli studi sulla traduzione si relazionano opportunamente alle questioni della migrazione e, forse anche con la letteratura della migrazione, le letterature e le filosofie della migrazione, dall’altro lato, permettono d’interrogare e mettere in questione la visione unitaria delle lingue e delle identità nazionali. 
 
-Dall’altro lato, negli studi sulla traduzione si registra un sempre crescente bisogno di mettere in relazione la letteratura italiana con la letteratura ‘straniera’ tradotta in lingua italiana, COME AFFERMA SISTO (_La letteratura tedesca in Italia_, Quodlibet, 2018) quando EVIDENZIA la necessità di creare una «storia italiana della letteratura mondiale». Così, se da un lato, gli studi sulla traduzione si relazionano alle questioni della migrazione e della letteratura della migrazione, le letterature e la filosofie della migrazione, dall’altro lato, permettono d’interrogare e mettere in questione la visione unitaria delle lingue e delle identità nazionali. 
-
-Combinando queste prospettive TRAMITE interventi, workshops e sessioni di letture collettive SERALI, la scuola estiva intende PROPIZIARE un dialogo tra differenti ricercatori/ricercatrici di varie generazione e provenienti da diverse realtà linguistiche e letterarie, SUL TEMA DELL'ESSERE FRA CULTURE, LINGUE ED IDENTITÀ DIVERSE, IN UNO SPAZIO OLTRE I CONFINI.
+Tramite interventi, workshops e sessioni serali di letture collettive, La scuola estiva _Lo spazio oltre i confini_ vuole proporsi come un'occasione di incontro tra le nuove generazioni di studiose/studiosi, professoresse/professori, scrittrici/scrittori, e altre/altri professioniste/i, propiziando il dialogo sul tema dell'essere tra culture, lingue e identità diverse, in uno spazio oltre i confini.
 
 Relatrici/relatori confermate/i
 ---
@@ -33,7 +33,7 @@ Michele Sisto, professore (Università degli Studi “G. D’Annunzio”)
 
 Lingue
 ---
-La summer school si svolgerà principalmente in lingua italiana, per cui è FORTEMENTE raccomandata una competenza almeno passiva di questa lingua. Essa sarà tuttavia aperta a tutte/i le/i dottorande/i e le/i postdottorande/i provenienti dagli studi letterari e dagli studi sulla traduzione. 
+La summer school si svolgerà principalmente in lingua italiana, per cui è fortemente raccomandata una competenza almeno passiva di questa lingua. Essa sarà tuttavia aperta a tutte/i le/i dottorande/i e le/i postdottorande/i provenienti dagli studi letterari e dagli studi sulla traduzione. 
 
 
 Dove
