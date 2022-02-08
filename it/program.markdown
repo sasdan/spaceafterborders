@@ -9,7 +9,7 @@ permalink: /it/programma/
 _Il programma è provvisorio_.
 
 
-**Giovedì 21 luglio 2022**
+##  **Giovedì 21 luglio 2022**
 
 
 **09:45** – **10:00**: Benvenuto e introduzione (Saskia Kroonenberg)
@@ -56,7 +56,7 @@ presentare letture, poesie, frammenti di testo a propria scelta e di qualunque g
 benvenute anche letture accompagnate da musica o da performance creative. 
 
 
-**Venerdì 22 luglio 2022**:
+## **Venerdì 22 luglio 2022**:
 
 
 **8:30** – **9:30**: Colazione
