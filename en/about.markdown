@@ -39,7 +39,6 @@ Parts of the summer school will be made available online via this website.
 
 Organisation and Funding
 ---
-Organised by: [Saskia Kroonenberg](https://saskia.dance/) (University of Cologne), [Sara Pesce](https://www.rose.uzh.ch/de/seminar/wersindwir/mitarbeitende/pesce.html) (University of Zurich),
-[Mara Travella](https://www.rose.uzh.ch/de/forschung/doktorat/doktorierende/travella.html) (University of Zurich), [Francesca Rodesino](https://www.rose.uzh.ch/de/forschung/doktorat/doktorierende/rodesino.html) (University of Zurich).
+Organised by: [Saskia Kroonenberg](https://saskia.dance/) (University of Cologne), [Sara Pesce](https://www.rose.uzh.ch/de/seminar/wersindwir/mitarbeitende/pesce.html) (University of Zurich), [Francesca Rodesino](https://www.rose.uzh.ch/de/forschung/doktorat/doktorierende/rodesino.html) (University of Zurich), [Mara Travella](https://www.rose.uzh.ch/de/forschung/doktorat/doktorierende/travella.html) (University of Zurich).
 
 This summer school is made possible thanks to the financial support of the [University of Zurich](https://www.uzh.ch/en.html), especially the [Graduate Campus](https://www.grc.uzh.ch/de.html), the [Romanisches Seminar](https://www.rose.uzh.ch/de.html), and the Department of [Allgemeine und Vergleichende Literaturwissenschaft](https://www.rose.uzh.ch/de/studium/faecher/avl/studies.html); and the [Dipartimento dell’educazione, della cultura e dello sport](https://www4.ti.ch/decs/dipartimento/) of the Republic and Canton of Ticino.
