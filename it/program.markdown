@@ -6,6 +6,6 @@ lang-ref: program
 permalink: /it/programma/
 ---
 
-_Il programma verrà presto pubblicato_.
+_Presto il programma verrà pubblicato_.
 
 
