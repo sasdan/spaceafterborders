@@ -40,7 +40,7 @@ La summer school si svolgerà principalmente in lingua italiana, per cui è fort
 Dove & Quando
 ---
 
-La summer school _Lo spazio oltre i confini. Migrazione, lettertura e traduzione_ avrà luogo tra il 21 e 22 luglio 2022 presso il [Monte Verità](https://www.monteverita.org/en), al (o oltre il) confine tra Svizzera e Italia.
+La summer school _Lo spazio oltre i confini. Migrazione, letteratura e traduzione_ avrà luogo tra il 21 e 22 luglio 2022 presso il [Monte Verità](https://www.monteverita.org/en), al (o oltre il) confine tra Svizzera e Italia.
 
 
 Organizzazione e finanziatori
