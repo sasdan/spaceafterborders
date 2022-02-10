@@ -23,7 +23,7 @@ Confirmed Speakers
 ---
 Maria Nadotti, translator and journalist
 
-Marie Moïse, independent scholar and activist
+Marie Moïse, Phd in filosofia politica e traduttrice militante
 
 Loredana Polezzi, professor (Stony Brook University)
 
