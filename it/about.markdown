@@ -25,7 +25,7 @@ Relatrici/ori confermate/i
 
 Maria Nadotti, traduttrice e giornalista
 
-Marie Moïse, accademica indipendente e attivista
+Marie Moïse, PhD in Political Philosophy and militant translator
 
 Loredana Polezzi, professoressa (Stony Brook University)
 
