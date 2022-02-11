@@ -11,4 +11,4 @@ until 31 March 2022. The selection criteria consist in the quality of the motiva
 
 The costs will consist of a fee of CHF 60,00 and the tourist tax of CHF 3,30. 
 
-For any further questions, please contact us by email: **spaziooltreiconfini.22@gmail.com**
+For any further questions, please contact us by email: **spaziooltreiconfini.22@gmail.com**.
