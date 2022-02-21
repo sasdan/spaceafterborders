@@ -6,9 +6,9 @@ lang: it
 lang-ref: about
 ---
 
-In un’epoca globalizzata, persone, lingue, culture, libri, artefatti e prodotti viaggiano, interagiscono e si modificano di continuo; e con essi il concetto di confine, inteso come luogo della delimitazione granitica. A partire dalla constatazione secondo cui una nozione tradizionale di confine sia sempre meno adatta a rappresentare le realtà attuali, la scuola estiva _Lo spazio oltre i confini. Migrazione, letteratura e traduzione_ intende cercare di concepire uno spazio oltre i confini, dove sia possibile mettere in discussione i limiti, siano essi frontiere geografiche, barriere sociali, politiche, culturali e letterarie. Quali sono i confini che definiscono una cultura, un'identità e una produzione letteraria? Come possiamo guardare al di là di essi? Come possiamo immaginare uno spazio oltre i confini?
+In un’epoca globalizzata, persone, lingue, culture, libri, artefatti e prodotti viaggiano, interagiscono e si modificano di continuo; e con essi il concetto di confine, inteso come luogo della delimitazione granitica. A partire dalla constatazione secondo cui una nozione tradizionale di confine sia sempre meno adatta a rappresentare le realtà attuali, la scuola estiva _Lo spazio oltre i confini. Migrazione, letteratura e traduzione_ intende cercare di concepire uno spazio oltre i confini, dove sia possibile mettere in discussione i limiti, siano essi frontiere geografiche, barriere sociali, politiche, culturali e letterarie: quali sono i confini che definiscono una cultura, un'identità e una produzione letteraria? Come possiamo guardare al di là di essi? Come possiamo immaginare uno spazio oltre i confini?
 
-La scuola estiva propone di affrontare la condizione dell'essere tra lingue, culture e identità differenti focalizzandosi su due fenomeni in particolare, capaci d’incarnare in modo emblematico dei movimenti sconfinanti:
+La scuola estiva propone di affrontare questi argomenti focalizzandosi su due fenomeni in particolare, capaci d’incarnare in modo emblematico dei movimenti sconfinanti:
 
 1. le (letterature delle) migrazioni 
 2. gli studi sulle traduzioni
