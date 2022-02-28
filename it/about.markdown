@@ -23,7 +23,7 @@ Relatrici/ori confermate/i
 
 Maria Nadotti, traduttrice e giornalista
 
-Marie Moïse, Phd in filosofia politica e traduttrice militante
+Marie Moïse, PhD in filosofia politica e traduttrice militante
 
 Loredana Polezzi, professoressa (Stony Brook University)
 
