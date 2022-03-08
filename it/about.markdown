@@ -21,9 +21,11 @@ Tramite interventi, workshops e sessioni serali di letture collettive, la scuola
 Relatrici/ori confermate/i
 ---
 
-Maria Nadotti, traduttrice e giornalista
+Amara Lakhous, scrittore
 
 Marie Moïse, PhD in filosofia politica e traduttrice militante
+
+Maria Nadotti, traduttrice e giornalista
 
 Loredana Polezzi, professoressa (Stony Brook University)
 
