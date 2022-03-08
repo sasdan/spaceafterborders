@@ -7,4 +7,4 @@ lang: en
 lang-ref: home
 ---
 
-![Poster of space after borders](/assets/space_after_borders_poster.pdf)
+![Poster of space after borders](/assets/locandina_01.png)
