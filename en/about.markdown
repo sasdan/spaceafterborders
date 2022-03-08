@@ -21,9 +21,11 @@ Through interventions, workshops and evening sessions of collective readings, th
 
 Confirmed Speakers
 ---
-Maria Nadotti, translator and journalist
+Amara Lakhous, writer
 
 Marie Moïse, PhD in Political Philosophy and militant translator
+
+Maria Nadotti, translator and journalist
 
 Loredana Polezzi, professor (Stony Brook University)
 
