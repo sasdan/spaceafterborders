@@ -6,3 +6,5 @@ layout: home
 lang: en
 lang-ref: home
 ---
+
+![Poster of space after borders](/assets/space_after_borders_poster.pdf)
