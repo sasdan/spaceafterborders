@@ -16,7 +16,7 @@ _A Summer School on Migration, Literature and Translation_
 
 **09:45 – 10:00**: Introduction (Saskia Kroonenberg)
 
-**10:00 – 13.00**: _Key Note_ **Loredana Polezzi**: _Tradurre, Tradursi: Narrare la migrazione tra confini e co-presenze_
+**10:00 – 13.00**: _Key Note_ **Loredana Polezzi (Stony Brook University) **: _Tradurre, Tradursi: Narrare la migrazione tra confini e co-presenze_
 
 Loredana Polezzi studies and teaches travel literature, (post-)colonial literature and literatures of migration, trans-lingualism, and auto-translation.
 
