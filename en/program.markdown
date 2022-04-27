@@ -24,7 +24,7 @@ Loredana Polezzi studies and teaches travel literature, (post-)colonial literatu
 
 **13:45 – 14:00**: Introduction (Saskia Kroonenberg)
 
-**14:00 – 15:30**: _Workshop_ - **Marie Moïse**: _Migrations and Relationality_
+**14:00 – 15:30**: _Workshop_ - **Marie Moïse** (Stanford University a Firenze): _Migrations and Relationality_
 
 Marie Moïse is a doctoral candidate in political philosophy at the University of Padova and Toulouse. She will prepare a workshop on racism, sexism, and relationality in the context of contemporary Italy; she will include questions of translating Anglophone theory to the Italian context. Every participant will be asked to read selected materials in preparation for the workshop and to take an active and (self-)reflective part of the discussions.
 
