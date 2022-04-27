@@ -41,14 +41,14 @@ permalink: /en/program/
 
 **9:15 – 9.30**: Introduction (Mara Travella)
 
-**9.30 – 12:30**: _Workshop_ - **Michele Sisto**
+**9.30 – 12:30**: _Workshop_ - **Michele Sisto**  <br />
 (Università degli Studi “G. D’Annunzio” di Chieti)
 
 **12:30 – 13:30**: Lunch Break
 
 **13:30 - 13:45**: Introduction (Mara Travella)
 
-**13:45 – 16:45**: _Workshop_ - **Maria Nadotti**
+**13:45 – 16:45**: _Workshop_ - **Maria Nadotti** 
 
 **16.45 - 17:30**: Conclusions (Francesca Rodesino)
 
