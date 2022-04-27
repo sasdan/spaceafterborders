@@ -18,12 +18,12 @@ _Key Note_: _Translating, Self-translating: the narration of the migration betwe
 
 **13:45 – 14:00**: Introduction (Saskia Kroonenberg)
 
-**14:00 – 15:30**: **Marie Moïse** - Stanford University a Firenze <br />
+**14:00 – 15:30**: **Marie Moïse** - Stanford University of Florence <br />
 _Workshop (part 1)_
 
 **15:30 - 16:00** Coffee Break
 
-**16:00– 17:30**: **Marie Moïse** - Stanford University a Firenze <br />
+**16:00– 17:30**: **Marie Moïse** - Stanford University of Florence <br />
  _Workshop (part 2)_
 
 **17:30 - 19:00**: Break
