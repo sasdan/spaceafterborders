@@ -11,7 +11,7 @@ permalink: /en/program/
 **09:45 – 10:00**: Introduction (Saskia Kroonenberg)
 
 **10:00 – 13.00**: **Loredana Polezzi** - Stony Brook University <br />
-_Key Note_: _Translating, Translating: The narration of the migration between borders and co-presences_ 
+_Key Note_: _Translating, Self-translating: The narration of the migration between borders and co-presences_ 
 
 
 **13:00– 13:45**: Lunch break
