@@ -32,7 +32,8 @@ _Migrations and Relationality_
 
 **20:30 - 20:45**: Introduction (Francesca Rodesino)
 
-**20:45 – 22:00**: _Round table_ - **Loredana Polezzi** interview the writer **Amara Lakhous**
+**20:45 – 22:00**: **Loredana Polezzi** interview the writer **Amara Lakhous**
+_Round table_
 
 
 ## **Friday 22 July: Translations**
@@ -47,7 +48,8 @@ _Migrations and Relationality_
 
 **13:30 - 13:45**: Introduction (Mara Travella)
 
-**13:45 – 16:45**: _Workshop_ - **Maria Nadotti** 
+**13:45 – 16:45**: **Maria Nadotti** 
+_Workshop_
 
 **16.45 - 17:30**: Conclusions (Francesca Rodesino)
 
