@@ -36,7 +36,7 @@ _Workshop (parte 1)_
 _Round table_
 
 
-## **Venerdì 21 luglio**
+## **Venerdì 22 luglio**
 
 **8:15 – 9:15**: Colazione
 
