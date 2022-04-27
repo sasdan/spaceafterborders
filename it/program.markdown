@@ -26,9 +26,9 @@ _Workshop (part 1)_
 **16:00– 17:30**: **Marie Moïse** - Stanford University a Firenze <br />
  _Workshop (part 2)_
 
-**17:30 - 19:00**: Break
+**17:30 - 19:00**: Pausa
 
-**19:00 – 20:30**: Dinner
+**19:00 – 20:30**: Cena
 
 **20:30 - 20:45**: Introduzione (Francesca Rodesino)
 
