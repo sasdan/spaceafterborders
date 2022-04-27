@@ -36,7 +36,7 @@ _Workshop (part 1)_: _Migrations and Relationality_
 _Round table_
 
 
-## **Friday 22 July: Translations**
+## **Friday 22 July**
 
 **8:00 – 9:00**: Breakfast
 
