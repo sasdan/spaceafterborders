@@ -16,9 +16,9 @@ _A Summer School on Migration, Literature and Translation_
 
 **09:45 – 10:00**: Introduction (Saskia Kroonenberg)
 
-**10:00 – 13.00**: _Key Note_ **Loredana Polezzi** _Migrazioni e traduzioni_
+**10:00 – 13.00**: _Key Note_ **Loredana Polezzi** _Migration and translation_
 
-Loredana Polezzi studies and teaches travel literature, (post-)colonial literature and literatures of migration, trans-lingualism, and auto-translation. She will conduct an interview with the renowned author Jhumpa Lahiri. Lahiri is of Bengalese and British origins, and she writes in English and Italian. She also translates and auto-translates her work.
+Loredana Polezzi studies and teaches travel literature, (post-)colonial literature and literatures of migration, trans-lingualism, and auto-translation.
 
 **13:00– 13:45**: Lunch break
 
