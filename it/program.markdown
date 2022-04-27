@@ -52,4 +52,4 @@ _Round table_
 **13:45 – 16:45**: **Maria Nadotti**  <br />
 _Workshop_
 
-**16.45 - 17:15**: Conclusione (Francesca Rodesino)
+**16.45 - 17:15**: Conclusione (Francesca Rodesino, Mara Travella)
