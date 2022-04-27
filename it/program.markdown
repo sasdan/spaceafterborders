@@ -6,7 +6,7 @@ lang-ref: program
 permalink: /it/programma/
 ---
 
-## **Thursday 21 July**
+## **Giovedì 21 luglio**
 
 **09:45 – 10:00**: Introduzione (Saskia Kroonenberg)
 
@@ -36,7 +36,7 @@ _Workshop (part 1)_: _Migrazione e relazionalità_
 _Round table_
 
 
-## **Friday 22 July: Translations**
+## **Venerdì 21 luglio: Translations**
 
 **8:00 – 9:00**: Colazione
 
