@@ -18,13 +18,13 @@ _Key Note_: _Tradurre, Tradursi: Narrare la migrazione tra confini e co-presenze
 
 **13:45 – 14:00**: Introduction (Saskia Kroonenberg)
 
-**14:00 – 15:30**: _Workshop (part 1)_ - **Marie Moïse** - Stanford University a Firenze <br />
-_Migrations and Relationality_
+**14:00 – 15:30**: **Marie Moïse** - Stanford University a Firenze <br />
+_Workshop (part 1): _Migrations and Relationality_
 
 **15:30 - 16:00** Coffee Break
 
-**16:00– 17:30**: _Workshop (part 2)_ - **Marie Moïse** - Stanford University a Firenze <br />
-_Migrations and Relationality_
+**16:00– 17:30**: **Marie Moïse** - Stanford University a Firenze <br />
+ _Workshop (part 2): _Migrations and Relationality_
 
 **17:30 - 19:00** Break
 
