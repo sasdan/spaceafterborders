@@ -11,6 +11,7 @@ permalink: /en/program/
 **09:45 – 10:00**: Introduction (Saskia Kroonenberg)
 
 **10:00 – 13.00**: _Key Note_: _Tradurre, Tradursi: Narrare la migrazione tra confini e co-presenze_
+
 **Loredana Polezzi** (Stony Brook University)
 
 **13:00– 13:45**: Lunch break
