@@ -14,6 +14,7 @@ permalink: /en/program/
 
 **Loredana Polezzi** (Stony Brook University)
 
+
 **13:00– 13:45**: Lunch break
 
 **13:45 – 14:00**: Introduction (Saskia Kroonenberg)
