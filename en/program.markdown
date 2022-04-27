@@ -32,7 +32,7 @@ _Workshop (part 1)_
 
 **20:30 - 20:45**: Introduction (Francesca Rodesino)
 
-**20:45 – 22:00**: **Loredana Polezzi** interview **Amara Lakhous** - writer <br />
+**20:45 – 22:00**: **Loredana Polezzi** interview **Amara Lakhous** - Writer <br />
 _Round table_
 
 
