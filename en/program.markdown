@@ -49,7 +49,7 @@ Marie Moïse is a doctoral candidate in political philosophy at the University o
 
 **9:15 – 9.30**: Introduction (Mara Travella)
 
-**9.30 – 12:30**: _Workshop_(it/de/eng): **Michele Sisto** _Dati, mappe, paratesti. Presentazione di Ltit_ 
+**9.30 – 12:30**: _Workshop_(it/de/eng): **Michele Sisto**
 
 Michele Sisto teaches at l’Università degli Studi “G. D’Annunzio” in Chieti. He will lead this workshop on the methodological aspects of translation studies, as related to migration literature. The workshop consists of two parts: the first part is based on case studies, including exercises for the participants. The second part offers the participants the possibility to discuss their own research. 
 
@@ -57,7 +57,7 @@ Michele Sisto teaches at l’Università degli Studi “G. D’Annunzio” in Ch
 
 **13:30 - 13:45**: Introduction (Mara Travella)
 
-**13:45 – 16:45**: **Maria Nadotti**: _Tradurre bell hooks_ 
+**13:45 – 16:45**: **Maria Nadotti**
 
 **16.45 - 17:30**: Conclusions (Francesca Rodesino)
 
