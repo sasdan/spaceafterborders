@@ -26,7 +26,7 @@ _Workshop (part 1)_: _Migrations and Relationality_
 **16:00– 17:30**: **Marie Moïse** - Stanford University a Firenze <br />
  _Workshop (part 2)_: _Migrations and Relationality_
 
-**17:30 - 19:00** Break
+**17:30 - 19:00**: Break
 
 **19:00 – 20:30**: Dinner
 
@@ -42,7 +42,8 @@ _Round table_
 
 **9:15 – 9.30**: Introduction (Mara Travella)
 
-**9.30 – 12:30**: _Workshop_ - **Michele Sisto** - Università degli Studi “G. D’Annunzio” di Chieti <br />
+**9.30 – 12:30**: **Michele Sisto** - Università degli Studi “G. D’Annunzio” di Chieti <br />
+ _Workshop_
 
 **12:30 – 13:30**: Lunch Break
 
