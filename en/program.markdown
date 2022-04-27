@@ -32,7 +32,7 @@ _Migrations and Relationality_
 
 **20:30 - 20:45**: Introduction (Francesca Rodesino)
 
-**20:45 – 22:00**: **Loredana Polezzi** interview the writer **Amara Lakhous**
+**20:45 – 22:00**: **Loredana Polezzi** interview the writer **Amara Lakhous** <br />
 _Round table_
 
 
