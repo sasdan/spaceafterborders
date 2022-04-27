@@ -49,7 +49,7 @@ _Round table_
 
 **13:30 - 13:45**: Introduction (Mara Travella)
 
-**13:45 – 16:45**: **Maria Nadotti** - Journalist <br />
+**13:45 – 16:45**: **Maria Nadotti** - Journalist, essayist, editorial consultant and translator <br />
 _Workshop_
 
 **16.45 - 17:15**: Conclusions (Francesca Rodesino, Mara Travella)
