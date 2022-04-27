@@ -6,19 +6,12 @@ lang-ref: program
 permalink: /en/program/
 ---
 
-**Space After Borders**
-
-_A Summer School on Migration, Literature and Translation_
-
-**21 - 22 July 2022, Monte Verità, Ascona**
-
 ## **Thursday 21 July**
 
 **09:45 – 10:00**: Introduction (Saskia Kroonenberg)
 
-**10:00 – 13.00**: _Key Note_ **Loredana Polezzi** (Stony Brook University): _Tradurre, Tradursi: Narrare la migrazione tra confini e co-presenze_
-
-Loredana Polezzi studies and teaches travel literature, (post-)colonial literature and literatures of migration, trans-lingualism, and auto-translation.
+**10:00 – 13.00**: _Key Note_: _Tradurre, Tradursi: Narrare la migrazione tra confini e co-presenze_
+**Loredana Polezzi** (Stony Brook University)
 
 **13:00– 13:45**: Lunch break
 
