@@ -38,7 +38,7 @@ _Round table_
 
 ## **Venerdì 21 luglio**
 
-**8:00 – 9:00**: Colazione
+**8:15 – 9:15**: Colazione
 
 **9:15 – 9.30**: Introduzione (Mara Travella)
 
