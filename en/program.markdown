@@ -30,7 +30,7 @@ Marie Moïse is a doctoral candidate in political philosophy at the University o
 
 **15:30 - 16:00** Coffee Break
 
-**16:00– 17:30**: _Workshop_– **Marie Moïse**: _Migrations and Relationality_
+**16:00– 17:30**: _Workshop_– **Marie Moïse** (Stanford University a Firenze): _Migrations and Relationality_
 
 **17:30 - 19:00** Break
 
