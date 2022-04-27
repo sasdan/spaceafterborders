@@ -8,9 +8,11 @@ permalink: /it/programma/
 
 
 **Space After Borders**
+
 _A Summer School on Migration, Literature and Translation_
 
 **21 - 22 July 2022**
+
 **Monte Verità, Ascona**
 
 ## **Thursday 21 July**
