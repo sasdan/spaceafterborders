@@ -16,7 +16,7 @@ _A Summer School on Migration, Literature and Translation_
 
 **09:45 – 10:00**: Introduction (Saskia Kroonenberg)
 
-**10:00 – 13.00**: _Key Note_ **Loredana Polezzi** _Migration and translation_
+**10:00 – 13.00** _Key Note_ **Loredana Polezzi** _Migration and translation_
 
 Loredana Polezzi studies and teaches travel literature, (post-)colonial literature and literatures of migration, trans-lingualism, and auto-translation.
 
@@ -24,7 +24,7 @@ Loredana Polezzi studies and teaches travel literature, (post-)colonial literatu
 
 **13:45 – 14:00**: Introduction (Saskia Kroonenberg)
 
-**14:00 – 15:30**: _Workshop_: **Marie Moïse** _Migrations and Relationality_
+**14:00 – 15:30** _Workshop_: **Marie Moïse** _Migrations and Relationality_
 
 Marie Moïse is a doctoral candidate in political philosophy at the University of Padova and Toulouse. She will prepare a workshop on racism, sexism, and relationality in the context of contemporary Italy; she will include questions of translating Anglophone theory to the Italian context. Every participant will be asked to read selected materials in preparation for the workshop and to take an active and (self-)reflective part of the discussions.
 
@@ -40,7 +40,7 @@ Marie Moïse is a doctoral candidate in political philosophy at the University o
 
 **20:30 - 20:45**: Introduction (Francesca Rodesino)
 
-**20:45 – 22:00**: _Round table_ - **Loredana Polezzi** interview **Amara Lakhous**
+**20:45 – 22:00** _Round table_ - **Loredana Polezzi** interview **Amara Lakhous**
 
 Amara Lakhous is 
 
