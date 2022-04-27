@@ -32,7 +32,7 @@ _Workshop (part 1)_
 
 **20:30 - 20:45**: Introduzione (Francesca Rodesino)
 
-**20:45 – 22:00**: **Loredana Polezzi** intervista lo scrittore **Amara Lakhous** <br />
+**20:45 – 22:00**: **Loredana Polezzi** intervista **Amara Lakhous** - Scrittore <br />
 _Round table_
 
 
@@ -49,7 +49,7 @@ _Round table_
 
 **13:30 - 13:45**: Introduzione (Mara Travella)
 
-**13:45 – 16:45**: **Maria Nadotti**  <br />
+**13:45 – 16:45**: **Maria Nadotti** - Giornalista <br />
 _Workshop_
 
 **16.45 - 17:15**: Conclusione (Francesca Rodesino, Mara Travella)
