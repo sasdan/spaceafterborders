@@ -38,7 +38,7 @@ _Round table_
 
 ## **Friday 22 July**
 
-**8:00 – 9:00**: Breakfast
+**8:15 – 9:15**: Breakfast
 
 **9:15 – 9.30**: Introduction (Mara Travella)
 
