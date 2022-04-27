@@ -36,7 +36,7 @@ _Workshop (part 1)_: _Migrazione e relazionalità_
 _Round table_
 
 
-## **Venerdì 21 luglio: Translations**
+## **Venerdì 21 luglio**
 
 **8:00 – 9:00**: Colazione
 
