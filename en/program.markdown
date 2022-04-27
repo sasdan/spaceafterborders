@@ -10,7 +10,7 @@ permalink: /en/program/
 
 **09:45 – 10:00**: Introduction (Saskia Kroonenberg)
 
-**10:00 – 13.00**: **Loredana Polezzi** (Stony Brook University) <br />
+**10:00 – 13.00**: **Loredana Polezzi** - Stony Brook University <br />
 _Key Note_: _Tradurre, Tradursi: Narrare la migrazione tra confini e co-presenze_ 
 
 
