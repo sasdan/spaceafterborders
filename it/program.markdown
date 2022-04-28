@@ -50,6 +50,6 @@ _Round table_
 **13:30 - 13:45**: Introduzione (Mara Travella)
 
 **13:45 – 16:45**: **Maria Nadotti** - Giornalista, saggista, consulente editoriale e traduttrice <br />
-_Workshop_
+_Round table_
 
 **16.45 - 17:15**: Conclusione (Francesca Rodesino, Mara Travella)
