@@ -19,12 +19,12 @@ _Key Note_: _Translating, Self-translating: the narration of the migration betwe
 **13:45 – 14:00**: Introduction (Saskia Kroonenberg)
 
 **14:00 – 15:30**: **Marie Moïse** - Stanford University in Florence <br />
-_Workshop (part 1)_
+_Workshop (part 1)_: _Migration and relationality_
 
 **15:30 - 16:00** Coffee Break
 
 **16:00– 17:30**: **Marie Moïse** - Stanford University in Florence <br />
- _Workshop (part 2)_
+ _Workshop (part 2)_: _Migration and relationality_
 
 **17:30 - 19:00**: Break
 
@@ -50,7 +50,7 @@ _Round table_
 **13:30 - 13:45**: Introduction (Mara Travella)
 
 **13:45 – 16:45**: **Maria Nadotti** - Journalist, essayist, editorial consultant and translator <br />
-_Workshop_
+_Round tale_
 
 **16.45 - 17:15**: Conclusions (Francesca Rodesino, Mara Travella)
 
