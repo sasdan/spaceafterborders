@@ -19,12 +19,14 @@ _Key Note_: _Translating, Self-translating: the narration of the migration betwe
 **13:45 – 14:00**: Introduction (Saskia Kroonenberg)
 
 **14:00 – 15:30**: **Marie Moïse** - Stanford University in Florence <br />
-_Workshop (part 1)_: _Migration and relationality_
+_Workshop (part 1)_: _The political experience of translation, the political translation of experience_
+
 
 **15:30 - 16:00** Coffee Break
 
 **16:00– 17:30**: **Marie Moïse** - Stanford University in Florence <br />
- _Workshop (part 2)_: _Migration and relationality_
+ _Workshop (part 2)_: _The political experience of translation, the political translation of experience_
+
 
 **17:30 - 19:00**: Break
 
