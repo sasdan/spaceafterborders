@@ -1,5 +1,6 @@
 ---
 layout: page
+hidden: true
 title: "Relatore: Amara Lakhous"
 permalink: /it/relatrici-tori/Amara-Lakhous
 lang: it
