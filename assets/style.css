@@ -1,0 +1,10 @@
+#speakers {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+#speakers img {
+	width: 300px;
+	height: 300px;
+}
