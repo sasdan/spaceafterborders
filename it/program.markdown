@@ -8,7 +8,7 @@ permalink: /it/programma/
 
 ## **Giovedì 21 luglio**
 
-**09:45 – 10:00**: Introduzione (Saskia Kroonenberg)
+**09:45 – 10:00**: Introduzione (Francesca Rodesino)
 
 **10:00 – 13.00**: **Loredana Polezzi** - Stony Brook University <br />
 _Key Note_: _Tradurre, Tradursi: Narrare la migrazione tra confini e co-presenze_ 
