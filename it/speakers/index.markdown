@@ -6,8 +6,8 @@ lang: it
 lang-ref: speakers
 ---
 
-![Amara Lakhous](/assets/speakers/Amara-Lakhous.jpg)
-![Loredana Polezzi](/assets/speakers/Loredana-Polezzi.jpg)
-![Maria Nadotti](/assets/speakers/Maria-Nadotti.jpg)
-![Marie Moise](/assets/speakers/Marie-Moise.jpg)
-![Michele Sisto](/assets/speakers/Michele-Sisto.jpg)
+[![Amara Lakhous](/assets/speakers/Amara-Lakhous.jpg)]({{page.permalink}}Amara-Lakhous)
+[![Loredana Polezzi](/assets/speakers/Loredana-Polezzi.jpg)]({{page.permalink}}Loredana-Polezzi)
+[![Maria Nadotti](/assets/speakers/Maria-Nadotti.jpg)]({{page.permalink}}Maria-Nadotti)
+[![Marie Moise](/assets/speakers/Marie-Moise.jpg)]({{page.permalink}}Marie-Moise)
+[![Michele Sisto](/assets/speakers/Michele-Sisto.jpg)]({{page.permalink}}Michele-Sisto)
