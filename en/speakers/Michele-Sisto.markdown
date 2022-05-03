@@ -1,10 +1,10 @@
 ---
 layout: page
 hidden: true
-title: "Speaker: Michaele Sisto"
-permalink: /en/speakers/Michaele-Sisto
+title: "Speaker: Michele Sisto"
+permalink: /en/speakers/Michele-Sisto
 lang: en
-lang-ref: speakers/Michaele-Sisto
+lang-ref: speakers/Michele-Sisto
 ---
 
 ![Michele Sisto](/assets/speakers/Michele-Sisto.jpg)
