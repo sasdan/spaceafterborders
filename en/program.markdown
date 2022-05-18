@@ -8,27 +8,26 @@ permalink: /en/program/
 
 ## **Thursday 21 July**
 
-**09:45 – 10:00**: Introduction (Francesca Rodesino)
+**09:30**: Shuttle bus to Monte Verità
 
-**10:00 – 13.00**: **Loredana Polezzi** - Stony Brook University <br />
+**10:00 – 10:15**: Introduction (Francesca Rodesino)
+
+**10:15 – 11:45**: **Loredana Polezzi** - Stony Brook University <br />
 _Key Note_: _Translating, Self-translating: the narration of the migration between borders and co-presences_ 
 
+**11:45– 13:15**: Lunch break
 
-**13:00– 13:45**: Lunch break
+**13:15 – 13:30**: Introduction (Saskia Kroonenberg)
 
-**13:45 – 14:00**: Introduction (Saskia Kroonenberg)
-
-**14:00 – 15:30**: **Marie Moïse** - Stanford University in Florence <br />
+**13:30 – 15:30**: **Marie Moïse** - Stanford University in Florence <br />
 _Workshop (part 1)_: _The political experience of translation, the political translation of experience_
-
 
 **15:30 - 16:00** Coffee Break
 
-**16:00– 17:30**: **Marie Moïse** - Stanford University in Florence <br />
+**16:00– 17:00**: **Marie Moïse** - Stanford University in Florence <br />
  _Workshop (part 2)_: _The political experience of translation, the political translation of experience_
 
-
-**17:30 - 19:00**: Break
+**17:00 - 19:00**: Break
 
 **19:00 – 20:30**: Dinner
 
