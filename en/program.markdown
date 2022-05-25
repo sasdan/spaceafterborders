@@ -44,7 +44,7 @@ _Round table_
 **9:15 – 9.30**: Introduction (Mara Travella)
 
 **9.30 – 12:30**: **Michele Sisto** - Università degli Studi “G. D’Annunzio” di Chieti <br />
- _Workshop_
+ _Workshop_: _Fields, maps, trajectories. Theoretical and practical approaches to translated literature_
 
 **12:30 – 13:30**: Lunch Break
 
