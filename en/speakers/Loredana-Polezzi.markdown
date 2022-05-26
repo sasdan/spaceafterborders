@@ -1,7 +1,7 @@
 ---
 layout: page
 hidden: true
-title: "Speaker: Loredana Polezzi"
+title: "Loredana Polezzi"
 permalink: /en/speakers/Loredana-Polezzi
 lang: en
 lang-ref: speakers/Loredana-Polezzi
