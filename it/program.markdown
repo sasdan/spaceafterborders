@@ -19,12 +19,12 @@ _Key Note_: _Tradurre, Tradursi: Narrare la migrazione tra confini e co-presenze
 
 **13:15 – 13:30**: Introduzione (Saskia Kroonenberg)
 
-**13:30 – 15:30**: **Marie Moïse** - Stanford University a Firenze <br />
+**13:30 – 15:30**: [**Marie Moïse**](https://www.spaceafterborders.com/it/relatrici-tori/Marie-Moise) - Stanford University a Firenze <br />
 _Workshop (parte 1)_: _L'esperienza politica della traduzione, la traduzione politica dell'esperienza_
 
 **15:30 - 16:00** Coffee Break
 
-**16:00– 17:00**: **Marie Moïse** - Stanford University a Firenze <br />
+**16:00– 17:00**: [**Marie Moïse**](https://www.spaceafterborders.com/it/relatrici-tori/Marie-Moise) - Stanford University a Firenze <br />
  _Workshop (parte 2)_: _L'esperienza politica della traduzione, la traduzione politica dell'esperienza_
 
 **17:00 - 19:00**: Pausa
