@@ -19,12 +19,12 @@ _Key Note_: _Translating, Self-translating: the narration of the migration betwe
 
 **13:15 – 13:30**: Introduction (Saskia Kroonenberg)
 
-**13:30 – 15:30**: **Marie Moïse** - Stanford University in Florence <br />
+**13:30 – 15:30**: [**Marie Moïse**](https://www.spaceafterborders.com/en/speakers/Marie-Moise) - Stanford University in Florence <br />
 _Workshop (part 1)_: _The political experience of translation, the political translation of experience_
 
 **15:30 - 16:00** Coffee Break
 
-**16:00– 17:00**: **Marie Moïse** - Stanford University in Florence <br />
+**16:00– 17:00**: [**Marie Moïse**](https://www.spaceafterborders.com/en/speakers/Marie-Moise) - Stanford University in Florence <br />
  _Workshop (part 2)_: _The political experience of translation, the political translation of experience_
 
 **17:00 - 19:00**: Break
