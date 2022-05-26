@@ -1,7 +1,7 @@
 ---
 layout: page
 hidden: true
-title: "Relatrice: Loredana Polezzi"
+title: "Loredana Polezzi"
 permalink: /it/relatrici-tori/Loredana-Polezzi
 lang: it
 lang-ref: speakers/Loredana-Polezzi
