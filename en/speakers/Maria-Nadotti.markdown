@@ -1,7 +1,7 @@
 ---
 layout: page
 hidden: true
-title: "Speaker: Maria Nadotti"
+title: "Maria Nadotti"
 permalink: /en/speakers/Maria-Nadotti
 lang: en
 lang-ref: speakers/Maria-Nadotti
