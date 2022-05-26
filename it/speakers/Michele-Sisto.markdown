@@ -1,7 +1,7 @@
 ---
 layout: page
 hidden: true
-title: "Relatore: Michele Sisto"
+title: "Michele Sisto"
 permalink: /it/relatrici-tori/Michele-Sisto
 lang: it
 lang-ref: speakers/Michele-Sisto
