@@ -1,7 +1,7 @@
 ---
 layout: page
 hidden: true
-title: "Relatrice: Maria Nadotti"
+title: "Maria Nadotti"
 permalink: /it/relatrici-tori/Maria-Nadotti
 lang: it
 lang-ref: speakers/Maria-Nadotti
