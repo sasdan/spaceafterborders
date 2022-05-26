@@ -1,7 +1,7 @@
 ---
 layout: page
 hidden: true
-title: "Speaker: Amara Lakhous"
+title: "Amara Lakhous"
 permalink: /en/speakers/Amara-Lakhous
 lang: en
 lang-ref: speakers/Amara-Lakhous
