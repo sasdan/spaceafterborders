@@ -12,7 +12,7 @@ permalink: /it/programma/
 
 **10:00 – 10:15**: Introduzione (Francesca Rodesino)
 
-**10:15 – 11:45**: **Loredana Polezzi** - Stony Brook University <br />
+**10:15 – 11:45**: [**Loredana Polezzi**](https://www.spaceafterborders.com/it/relatrici-tori/Loredana-Polezzi) - Stony Brook University <br />
 _Key Note_: _Tradurre, Tradursi: Narrare la migrazione tra confini e co-presenze_ 
 
 **11:45– 13:15**: Pausa pranzo
@@ -33,7 +33,7 @@ _Workshop (parte 1)_: _L'esperienza politica della traduzione, la traduzione pol
 
 **20:30 - 20:45**: Introduzione (Francesca Rodesino)
 
-**20:45 – 22:00**: **Loredana Polezzi** intervista **Amara Lakhous** - Scrittore <br />
+**20:45 – 22:00**: [**Loredana Polezzi**](https://www.spaceafterborders.com/it/relatrici-tori/Loredana-Polezzi) intervista [**Amara Lakhous**](https://www.spaceafterborders.com/it/relatrici-tori/Amara-Lakhous) - Scrittore <br />
 _Round table_
 
 
@@ -43,14 +43,14 @@ _Round table_
 
 **9:15 – 9.30**: Introduzione (Mara Travella)
 
-**9.30 – 12:30**: **Michele Sisto** - Università degli Studi “G. D’Annunzio” di Chieti <br />
+**9.30 – 12:30**: [**Michele Sisto**](https://www.spaceafterborders.com/it/relatrici-tori/Michele-Sisto) - Università degli Studi “G. D’Annunzio” di Chieti <br />
  _Workshop_: _Campi, mappe, traiettorie. Approcci teorici e pratici alla letteratura tradotta_
 
 **12:30 – 13:30**: Pausa pranzo
 
 **13:30 - 13:45**: Introduzione (Mara Travella)
 
-**13:45 – 16:45**: **Maria Nadotti** - Giornalista, saggista, consulente editoriale e traduttrice <br />
+**13:45 – 16:45**: [**Maria Nadotti**](https://www.spaceafterborders.com/it/relatrici-tori/Maria-Nadotti) - Giornalista, saggista, consulente editoriale e traduttrice <br />
 _Round table_
 
 **16.45 - 17:15**: Conclusione (Francesca Rodesino, Mara Travella)
