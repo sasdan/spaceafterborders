@@ -1,7 +1,7 @@
 ---
 layout: page
 hidden: true
-title: "Relatrice: Marie Moïse"
+title: "Marie Moïse"
 permalink: /it/relatrici-tori/Marie-Moise
 lang: it
 lang-ref: speakers/Marie-Moise
