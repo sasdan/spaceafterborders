@@ -1,7 +1,7 @@
 ---
 layout: page
 hidden: true
-title: "Speaker: Michele Sisto"
+title: "Michele Sisto"
 permalink: /en/speakers/Michele-Sisto
 lang: en
 lang-ref: speakers/Michele-Sisto
