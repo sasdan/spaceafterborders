@@ -12,8 +12,7 @@ permalink: /it/programma/
 
 **10:00 – 10:15**: Introduzione (Francesca Rodesino)
 
-**10:15 – 11:45**: [**Loredana Polezzi**](https://www.spaceafterborders.com/it/relatrici-tori/Loredana-Polezzi) - Stony Brook University <br />
-_Key Note_: _Tradurre, Tradursi: Narrare la migrazione tra confini e co-presenze_ 
+**10:15 – 11:45**: Da definire.
 
 **11:45– 13:15**: Pausa pranzo
 
