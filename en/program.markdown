@@ -12,9 +12,7 @@ permalink: /en/program/
 
 **10:00 – 10:15**: Introduction (Francesca Rodesino)
 
-**10:15 – 11:45**: [**Loredana Polezzi**](https://www.spaceafterborders.com/en/speakers/Loredana-Polezzi) - Stony Brook University <br />
-_Key Note_: _Translating, Self-translating: the narration of the migration between borders and co-presences_ 
-
+**10:15 – 11:45**: To be defined.
 **11:45– 13:15**: Lunch break
 
 **13:15 – 13:30**: Introduction (Saskia Kroonenberg)
