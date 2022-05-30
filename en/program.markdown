@@ -13,6 +13,7 @@ permalink: /en/program/
 **10:00 – 10:15**: Introduction (Francesca Rodesino)
 
 **10:15 – 11:45**: To be defined.
+
 **11:45– 13:15**: Lunch break
 
 **13:15 – 13:30**: Introduction (Saskia Kroonenberg)
