@@ -1,10 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 lang: en
 lang-ref: home
 ---
 
 ![Poster of space after borders](/assets/locandina_02.png)
+*Image: Paul Klee, Heitere Gebirgslandschaft (1929)*
