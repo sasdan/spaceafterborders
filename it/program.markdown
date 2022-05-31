@@ -12,7 +12,7 @@ permalink: /it/programma/
 
 **10:00 – 10:15**: Introduzione (Francesca Rodesino)
 
-**10:15 – 11:45**: Da definire.
+**10:15 – 11:45**: Da definire
 
 **11:45– 13:15**: Pausa pranzo
 
