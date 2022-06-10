@@ -12,7 +12,8 @@ permalink: /en/program/
 
 **10:00 – 10:15**: Introduction (Francesca Rodesino)
 
-**10:15 – 11:45**: To be defined.
+**10:15 – 11:45**: [**Alessandra Ferraro**] - Università degli Studi di Udine <br />
+_Keynote_: _Self-translation in migrant literatures_
 
 **11:45– 13:15**: Lunch break
 
