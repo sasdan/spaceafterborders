@@ -12,7 +12,8 @@ permalink: /it/programma/
 
 **10:00 – 10:15**: Introduzione (Francesca Rodesino)
 
-**10:15 – 11:45**: Da definire.
+**10:15 – 11:45**: [**Alessandra Ferraro**] - Università degli Studi di Udine <br />
+_Keynote_: _L’autotraduzione nelle letterature migranti: il caso degli scrittori di origine italiana in Canada_
 
 **11:45– 13:15**: Pausa pranzo
 
