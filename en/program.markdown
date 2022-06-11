@@ -13,7 +13,7 @@ permalink: /en/program/
 **10:00 – 10:15**: Introduction (Francesca Rodesino)
 
 **10:15 – 11:45**: [**Alessandra Ferraro**](https://www.spaceafterborders.com/en/speakers/Alessandra-Ferraro) - Università degli Studi di Udine <br />
-_Keynote_: _Self-translation in literatures of migration_
+_Keynote_: _Self-translation in literatures of migration: the case of authors of italian origin in Canada_
 
 **11:45– 13:15**: Lunch break
 
