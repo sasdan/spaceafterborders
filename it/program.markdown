@@ -10,7 +10,7 @@ permalink: /it/programma/
 
 **09:30**: Shuttle bus per il Monte Verità
 
-**10:00 – 10:15**: Introduzione (Francesca Rodesino)
+**10:00 – 10:15**: Apertura (Prof. Dr. Tatiana Crivelli)
 
 **10:15 – 11:45**: [**Alessandra Ferraro**](https://www.spaceafterborders.com/it/relatrici-tori/Alessandra-Ferraro) - Università degli Studi di Udine <br />
 _Keynote_: _L’autotraduzione nelle letterature migranti: il caso degli scrittori di origine italiana in Canada_
