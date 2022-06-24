@@ -21,15 +21,17 @@ Through interventions, workshops and evening sessions of collective readings, th
 
 Confirmed Speakers
 ---
-Amara Lakhous, writer
+[Alessandra Ferraro](https://www.spaceafterborders.com/en/speakers/Alessandra-Ferraro), teacher of French literature and Francophone literatures (University of Udine) 
 
-Marie Moïse, PhD in Political Philosophy and militant translator
+[Amara Lakhous](https://www.spaceafterborders.com/en/speakers/Amara-Lakhous), writer
 
-Maria Nadotti, translator and journalist
+[Marie Moïse](https://www.spaceafterborders.com/en/speakers/Marie-Moise), PhD in Political Philosophy and militant translator
 
-Loredana Polezzi, professor (Stony Brook University)
+[Maria Nadotti](https://www.spaceafterborders.com/en/speakers/Maria-Nadotti), translator and journalist
 
-Michele Sisto, professor (Università degli Studi “G. D’Annunzio”)
+[Loredana Polezzi](https://www.spaceafterborders.com/en/speakers/Loredana-Polezzi), professor (Stony Brook University)
+
+[Michele Sisto](https://www.spaceafterborders.com/en/speakers/Michele-Sisto), professor (Università degli Studi “G. D’Annunzio”)
 
 Languages
 ---
