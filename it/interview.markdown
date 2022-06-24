@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Intervista Online
-permalink: /it/interview/
+permalink: /it/intervista/
 lang: it
 lang-ref: interview
 ---
