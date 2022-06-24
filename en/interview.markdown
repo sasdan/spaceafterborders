@@ -3,7 +3,7 @@ layout: page
 title: Online Interview
 permalink: /en/interview/
 lang: en
-lang-ref: intervista
+lang-ref: interview
 ---
 
 **Amara Lakhous in dialogue with Loredana Polezzi** 
