@@ -20,16 +20,17 @@ Tramite interventi, workshops e sessioni serali di letture collettive, la scuola
 
 Relatrici/ori confermate/i
 ---
+[Alessandra Ferraro](https://www.spaceafterborders.com/it/relatrici-tori/Alessandra-Ferraro), docente di Letteratura francese e letterature francofone (Università di Udine)
 
-Amara Lakhous, scrittore
+[Amara Lakhous](https://www.spaceafterborders.com/it/relatrici-tori/Amara-Lakhous), scrittore
 
-Marie Moïse, PhD in filosofia politica e traduttrice militante
+[Marie Moïse](https://www.spaceafterborders.com/it/relatrici-tori/Marie-Moise), PhD in filosofia politica e traduttrice militante
 
-Maria Nadotti, traduttrice e giornalista
+[Maria Nadotti](https://www.spaceafterborders.com/it/relatrici-tori/Maria-Nadotti), traduttrice e giornalista
 
-Loredana Polezzi, professoressa (Stony Brook University)
+[Loredana Polezzi](https://www.spaceafterborders.com/it/relatrici-tori/Loredana-Polezzi), professoressa (Stony Brook University)
 
-Michele Sisto, professore (Università degli Studi “G. D’Annunzio”)
+[Michele Sisto](https://www.spaceafterborders.com/it/relatrici-tori/Michele-Sisto), professore (Università degli Studi “G. D’Annunzio”)
 
 
 Lingue
