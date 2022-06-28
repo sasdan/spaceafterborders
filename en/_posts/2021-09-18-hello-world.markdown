@@ -1,13 +1,8 @@
 ---
 layout: post
-title:  "Apply now"
-date:   2022-02-01 15:15:00 +0100
+title:  "New program"
+date:   2022-28-06 15:15:00 +0100
 lang:	en
 ---
 
-[CALL FOR PARTICIPANTS](https://www.spaceafterborders.com/en/application/)
-
-Summer School [Space After Borders. Migration, Literature and Translation](https://www.spaceafterborders.com/en/about/)
-
-21 - 22 July 2022
-Monte Verità, Ascona (CH)
+[**Check out the final version of our program!**](https://www.spaceafterborders.com/en/program/)
