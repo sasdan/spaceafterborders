@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nuovo programma"
-date:   2022-02-01 15:15:00 +0100
+date:   2022-28-06 15:15:00 +0100
 lang: it
 ---
 
