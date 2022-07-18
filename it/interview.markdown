@@ -16,4 +16,4 @@ L'evento verrà trasmesso su piattaforma Zoom.
 
 Per per partecipare all’evento online iscriversi entro il 20 luglio 2022 all’indirizzo: **spaziooltreiconfini.22@gmail.com**.
 
-Per chi non può partecipare, uno streaming dell'evento verrà anche caricato sul nostro sito.
+Per chi non può partecipare, uno streaming dell'evento sarà anche accessibile sul [nostro canale YouTube](https://www.youtube.com/channel/UCbnKM_krEGsmuZk5pqIwH4g).
