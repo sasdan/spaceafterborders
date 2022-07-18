@@ -8,18 +8,18 @@ permalink: /en/program/
 
 ## **Thursday 21 July**
 
-**09:30**: Shuttle bus to Monte Verità
+**09:40**: Shuttle bus to Monte Verità
 
-**10:00 – 10:15**: Opening (Prof. Dr. Tatiana Crivelli)
+**10:15 – 10:45**: Opening (Prof. Dr. Tatiana Crivelli)
 
-**10:15 – 11:45**: [**Alessandra Ferraro**](https://www.spaceafterborders.com/en/speakers/Alessandra-Ferraro) - Università degli Studi di Udine <br />
+**10:45 – 12:00**: [**Alessandra Ferraro**](https://www.spaceafterborders.com/en/speakers/Alessandra-Ferraro) - Università degli Studi di Udine <br />
 _Keynote_: _Self-translation in literatures of migration: the case of authors of italian origin in Canada_
 
-**11:45– 13:15**: Lunch break
+**12:00– 13:15**: Lunch break
 
-**13:15 – 13:30**: Introduction (Saskia Kroonenberg)
+**13:30 – 13:45**: Introduction (Saskia Kroonenberg)
 
-**13:30 – 15:30**: [**Marie Moïse**](https://www.spaceafterborders.com/en/speakers/Marie-Moise) - Stanford University in Florence <br />
+**13:45 – 15:30**: [**Marie Moïse**](https://www.spaceafterborders.com/en/speakers/Marie-Moise) - Stanford University in Florence <br />
 _Workshop (part 1)_: _The political experience of translation, the political translation of experience_
 
 **15:30 - 16:00** Coffee Break
@@ -27,7 +27,7 @@ _Workshop (part 1)_: _The political experience of translation, the political tra
 **16:00– 17:00**: [**Marie Moïse**](https://www.spaceafterborders.com/en/speakers/Marie-Moise) - Stanford University in Florence <br />
  _Workshop (part 2)_: _The political experience of translation, the political translation of experience_
 
-**17:00 - 19:00**: Break
+**17:15 - 18:15**: Collective Reading
 
 **19:00 – 20:30**: Dinner
 
@@ -53,6 +53,6 @@ _Round table_
 **13:45 – 16:45**: [**Maria Nadotti**](https://www.spaceafterborders.com/en/speakers/Maria-Nadotti) - Journalist, essayist, editorial consultant and translator <br />
 _Round table_
 
-**16.45 - 17:15**: Conclusions (Francesca Rodesino, Mara Travella)
+**16.30 - 17:15**: Conclusions (Francesca Rodesino, Mara Travella)
 
 
