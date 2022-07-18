@@ -16,4 +16,4 @@ The event will be held online via Zoom.
 
 In order to participate to the meeting, please send us an email by 20 July 2022: **spaziooltreiconfini.22@gmail.com**.
 
-For those unable to join, a streaming of the event will be uploaded to our website.
+For those unable to join, a streaming of the event will be accessible on [our YouTube channel](https://www.youtube.com/channel/UCbnKM_krEGsmuZk5pqIwH4g).
